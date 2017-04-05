@@ -1,0 +1,7 @@
+[package]
+name = "learn_curses"
+version = "0.1.0"
+authors = ["Taryn Hill <taryn@phrohdoh.com>"]
+
+[dependencies]
+pancurses = "^0.8"
